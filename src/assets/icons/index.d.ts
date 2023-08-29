@@ -1,0 +1,12 @@
+export declare const arrowRight: string;
+export declare const cheveronRight: string;
+export declare const chevronLeft: string;
+export declare const copyrightSign: string;
+export declare const facebook: string;
+export declare const hamburger: string;
+export declare const instagram: string;
+export declare const support: string;
+export declare const shieldTick: string;
+export declare const star: string;
+export declare const truckFast: string;
+export declare const twitter: string;
